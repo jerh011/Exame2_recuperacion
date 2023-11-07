@@ -1,0 +1,15 @@
+C:\Users\cd19\Documents\mba\Examen2_Recuperacion\bin\Debug\net7.0\Examen2_Recuperacion.exe
+C:\Users\cd19\Documents\mba\Examen2_Recuperacion\bin\Debug\net7.0\Examen2_Recuperacion.deps.json
+C:\Users\cd19\Documents\mba\Examen2_Recuperacion\bin\Debug\net7.0\Examen2_Recuperacion.runtimeconfig.json
+C:\Users\cd19\Documents\mba\Examen2_Recuperacion\bin\Debug\net7.0\Examen2_Recuperacion.dll
+C:\Users\cd19\Documents\mba\Examen2_Recuperacion\bin\Debug\net7.0\Examen2_Recuperacion.pdb
+C:\Users\cd19\Documents\mba\Examen2_Recuperacion\obj\Debug\net7.0\Examen2_Recuperacion.csproj.AssemblyReference.cache
+C:\Users\cd19\Documents\mba\Examen2_Recuperacion\obj\Debug\net7.0\Examen2_Recuperacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd19\Documents\mba\Examen2_Recuperacion\obj\Debug\net7.0\Examen2_Recuperacion.AssemblyInfoInputs.cache
+C:\Users\cd19\Documents\mba\Examen2_Recuperacion\obj\Debug\net7.0\Examen2_Recuperacion.AssemblyInfo.cs
+C:\Users\cd19\Documents\mba\Examen2_Recuperacion\obj\Debug\net7.0\Examen2_Recuperacion.csproj.CoreCompileInputs.cache
+C:\Users\cd19\Documents\mba\Examen2_Recuperacion\obj\Debug\net7.0\Examen2_Recuperacion.dll
+C:\Users\cd19\Documents\mba\Examen2_Recuperacion\obj\Debug\net7.0\refint\Examen2_Recuperacion.dll
+C:\Users\cd19\Documents\mba\Examen2_Recuperacion\obj\Debug\net7.0\Examen2_Recuperacion.pdb
+C:\Users\cd19\Documents\mba\Examen2_Recuperacion\obj\Debug\net7.0\Examen2_Recuperacion.genruntimeconfig.cache
+C:\Users\cd19\Documents\mba\Examen2_Recuperacion\obj\Debug\net7.0\ref\Examen2_Recuperacion.dll
